@@ -1,0 +1,16 @@
+= Demo Documentation Site A
+:uri-project: https://antora.org
+:uri-docs: https://docs.antora.org
+:uri-org: https://github.com/banshee77
+:uri-antora-docs-site: {uri-org}/antora-docs-site/blob/main/README.adoc
+
+
+Site B is an example of a documentation site.
+It is used by the Antora Demo site.
+The playbook and instructions for the Demo site are located in the {uri-antora-docs-site}[Demo site playbook project].
+
+== Resources
+
+* {uri-project}[Antora Project]
+* {uri-docs}[Antora Docs]
+
