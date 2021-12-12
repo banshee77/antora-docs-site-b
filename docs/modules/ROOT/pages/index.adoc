@@ -1,6 +1,6 @@
 = Welcome to Site B version 2.0!
 
-This is the automatic start page for version *{page-site-version}* of Site B.
+This is the automatic start page for version *{page-component-version}* of Site B.
 
 Site B is one of two documentation sites in the Antora Demo.
 The other docs site, Site A, can be accessed via the site selector menu (aka site drawer) at the bottom of the menu on the left side of the page.
