@@ -1,4 +1,4 @@
-= Welcome to Site B!
+= Welcome to Site B version 2.0!
 
 This is the automatic start page for version *{page-site-version}* of Site B.
 
