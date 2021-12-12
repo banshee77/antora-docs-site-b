@@ -1,6 +1,6 @@
 name: site-b
 title: Site B
-version: dev
+version: main
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
